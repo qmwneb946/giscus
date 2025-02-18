@@ -1,3 +1,3 @@
 # giscus
 
-<GoodProblem>
+[GoodProblem](GoodProblem.md)
