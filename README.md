@@ -1,3 +1,3 @@
 # giscus
 
-[GoodProblem](GoodProblem.md) | [note](note.md) | [TODO](TODO.md)
+[`GoodProblem`](GoodProblem.md) | [`note`](note.md) | [`TODO`](TODO.md)
