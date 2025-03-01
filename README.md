@@ -8,4 +8,4 @@
 
 ## 反馈
 
-[`学生信息统计`](student) | [联系我们](contact)
+[`学生信息统计`](student) | [`联系我们`](contact)
