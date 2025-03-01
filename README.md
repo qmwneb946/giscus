@@ -4,4 +4,8 @@
 
 ## 快速开始
 
-[`GoodProblem`](GoodProblem.md) | [`note`](note.md) | [`TODO`](TODO.md)
+[`好题`](好题) | [`备忘录`](备忘录) | [`待办`](待办) | [`不会题目`](不会题目) | [`等待 AC`](等待%20AC)
+
+## 反馈
+
+[`学生信息统计`](student) | [联系我们](contact)
